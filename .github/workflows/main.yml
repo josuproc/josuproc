@@ -40,5 +40,5 @@ empregos:
         com:
           ramo_alvo:saída
           diretório_de_construção:distância
-        ambiente:
+        ambiente:  
           TOKEN_GITHUB:${{ segredos.GITHUB_TOKEN }}
