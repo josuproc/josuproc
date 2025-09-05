@@ -1,4 +1,4 @@
-## Hi there 👋
+## ola! eu sou josue 
 - 🔭 I’m currently working com back end
 - 🌱 I’m currently learning java
 - 📫 How to reach me: josuedosantos02@gmail.co
