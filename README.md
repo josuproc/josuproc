@@ -1,6 +1,5 @@
 # Olá, eu sou o Josuproc! 
 
-![Animação da Cobrinha](https://raw.githubusercontent.com/josuproc/josuproc/output/snake.svg)
 
 ##  Sobre mim
 -  Estou trabalhando em projetos de programação e automação.  
